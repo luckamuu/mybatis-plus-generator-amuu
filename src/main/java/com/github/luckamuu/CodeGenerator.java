@@ -1,4 +1,4 @@
-package org.amuu.util;
+package com.github.luckamuu;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.annotation.IdType;
